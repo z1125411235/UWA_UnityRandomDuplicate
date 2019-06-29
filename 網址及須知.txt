@@ -1,0 +1,7 @@
+版本:Unity 2017.4
+
+UWA網址__https://lab.uwa4d.com/lab/5b6653c6d7f10a201ffaf0f9?fbclid=IwAR12g9IVrXI-tTryKPQoDPGwyNL22dIZv6GG8FY0S6w7rrbykxp6UZT_BCM
+
+本人Github網址__https://github.com/z1125411235/UWA_UnityRandomDuplicate
+
+官方Github網址__https://github.com/ibito/Unity-Random-Duplicate
